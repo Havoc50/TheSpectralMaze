@@ -835,8 +835,8 @@ function draw() {
     text(", you can unlock the final door", 404, 6610);
 
     fill(255, 0, 0);
-    textSize(11);
-    text("Controls:", 440, 6675);
+    textSize(12);
+    text("Controls:", 436, 6675);
     fill(222, 222, 222);
     textSize(6);
     text("Control the player using the Arrow Keys", 378, 6690);
@@ -848,7 +848,7 @@ function draw() {
     //text("Left Arrow is left, Right Arrow is right", 373, 6710);
 
     fill(255, 0, 0);
-    textSize(11);
+    textSize(12);
     text("Goal:", 110, 6675);
     fill(222, 222, 222);
     textSize(6);
